@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "66d48ec2a783bf838c2710bd"
+  },
+  "name": "ji",
+  "age": 9,
+  "gpa": 11
+},
+{
+  "_id": {
+    "$oid": "66d48ec2a783bf838c2710be"
+  },
+  "name": "ki",
+  "age": 9,
+  "gpa": 8
+},
+{
+  "_id": {
+    "$oid": "66d48ec2a783bf838c2710bf"
+  },
+  "name": "ht",
+  "age": 8,
+  "gpa": 7
+},
+{
+  "_id": {
+    "$oid": "66d48faf2dbfd9a70682a2a2"
+  },
+  "name": "by",
+  "age": 8,
+  "gpa": 8
+}]
